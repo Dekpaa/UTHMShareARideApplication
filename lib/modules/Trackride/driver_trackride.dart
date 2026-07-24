@@ -31,7 +31,7 @@ class DriverTrackRidePage extends StatefulWidget {
 }
 
 class _DriverTrackRidePageState extends State<DriverTrackRidePage> {
-  final String googleApiKey = "AIzaSyA8XyUAaBTUaIFZnyJFenC41_paHZelsXk";
+  final String googleApiKey = "";
 
   Ride? _ride;
   Position? _currentPosition;
