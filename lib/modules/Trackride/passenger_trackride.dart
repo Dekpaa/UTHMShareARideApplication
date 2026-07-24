@@ -35,7 +35,7 @@ class _PassengerTrackRidePageState extends State<PassengerTrackRidePage> {
   late GoogleMapController _mapController;
   double _mapZoom = 16.0;
   final double _zoomStep = 1.0;
-  final String googleApiKey = "AIzaSyA8XyUAaBTUaIFZnyJFenC41_paHZelsXk";
+  final String googleApiKey = "";
 
   Ride? _ride;
   LatLng? _driverLocation;
